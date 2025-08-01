@@ -62,7 +62,7 @@ Scope exclusions:
 ---
 
 ### **4. System Workflow Overview**
-
+```
 **Step 1:** Client submits digital PDF plans + address via portal
 **Step 2:** Plans are classified by project type using AI
 **Step 3:** Jurisdiction + wind zone + zoning rules pulled via API
@@ -70,7 +70,7 @@ Scope exclusions:
 **Step 5:** Engineer-in-the-loop reviews flagged issues
 **Step 6:** Pass/fail status is issued, and PE digitally signs if compliant
 **Step 7:** Permit affidavit is generated + submitted to AHJ (Authority Having Jurisdiction)
-
+```
 ---
 
 ### **5. Code Compliance Checks**
