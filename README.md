@@ -21,6 +21,7 @@ This repository defines the OasisPermits Protocol — a modern, open-source fram
 - ISO 19650 – BIM information management standard
 
 ## 📂 Repository Structure
+<pre>
 OasisPermits/
 ├── README.md
 ├── LICENSE
@@ -43,8 +44,7 @@ OasisPermits/
 └── examples/
 ├── Sample_Stamped_Plan_Package/
 └── JSON_API_Response_Example.json
-
-
+<pre>
 ## 🔧 Getting Started
 
 1. Clone this repo
